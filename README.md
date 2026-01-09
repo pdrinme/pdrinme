@@ -7,6 +7,6 @@
 
   Estou procurando sempre apendender mais para continuar nesse mundo que sempre busca novas tecnologias!
   
-![Alt text](https://www.gifcen.com/wp-content/uploads/2024/10/pikachu-gif.gif "Pikachu Comendo um Fruta")
+![Alt text](https://archives.bulbagarden.net/media/upload/f/f2/025Pikachu_Dream_6.png "Pikachu Comendo um Fruta")
 
 Além de gostar muito de pokémon.

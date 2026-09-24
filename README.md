@@ -18,6 +18,5 @@
 
   
 <div align="right">
-  <img src="https://archives.bulbagarden.net/media/upload/8/84/025Pikachu_Dream_5.png" width="100"/>
-  <img src="https://archives.bulbagarden.net/media/upload/8/8a/025Pikachu_PhD_Dream.png" width="115"/>
+  <img src="https://media.tenor.com/lpLciCaWZrEAAAAj/momonga-chiikawa.gif" width="200"/>
 </div>
